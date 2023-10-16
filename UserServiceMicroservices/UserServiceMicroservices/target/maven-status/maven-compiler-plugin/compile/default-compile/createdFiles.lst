@@ -1,0 +1,14 @@
+com\user\service\UserServiceMicroservices\payload\ApiResponse\ApiResponse$ApiResponseBuilder.class
+com\user\service\UserServiceMicroservices\User\UserEntity.class
+com\user\service\UserServiceMicroservices\UserServiceMicroservicesApplication.class
+com\user\service\UserServiceMicroservices\services\UserServiceImpl.class
+com\user\service\UserServiceMicroservices\User\Rating.class
+com\user\service\UserServiceMicroservices\config\MyConfigurationClass.class
+com\user\service\UserServiceMicroservices\User\Hotels.class
+com\user\service\UserServiceMicroservices\exception\ResourceNotFoundException.class
+com\user\service\UserServiceMicroservices\User\UserEntity$UserEntityBuilder.class
+com\user\service\UserServiceMicroservices\services\UserService.class
+com\user\service\UserServiceMicroservices\repository\UserRepository.class
+com\user\service\UserServiceMicroservices\exception\GlobalExceptionHandler.class
+com\user\service\UserServiceMicroservices\controller\UserController.class
+com\user\service\UserServiceMicroservices\payload\ApiResponse\ApiResponse.class
